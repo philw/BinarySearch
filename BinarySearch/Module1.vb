@@ -2,7 +2,7 @@
 
     Sub Main()
 
-        Dim items() As String = {"blue", "cyan", "green", "red", "yellow"}
+        Dim items() As String = {"blue", "cyan", "green", "magenta", "red", "yellow"}
         Dim first As Integer
         Dim last As Integer
         Dim mid As Integer
